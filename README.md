@@ -1,7 +1,7 @@
 # around
 <h2>基于react-native的移动LBS周边服务</h2>
 <br/>
-<h4>一.功能介绍</h4><br/>
+<h4>一.功能介绍</h4>
 <h6>1.支持Android，IOS两个平台</h6><br/>
 <h6>2.移动LBS定位</h6><br/>
 <h6>3.集成高德地图</h6><br/>
