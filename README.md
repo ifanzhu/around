@@ -13,7 +13,7 @@
 <br/>
 <hr/>
 <br/>
-<h4>二使用步骤</h4>
+<h4>二.使用步骤</h4>
 <h6>1.准备好Nodejs环境，以及react native环境</h6>
 <h6>2.切换到项目目录</h6>
 <h6>3.npm install</h6>
